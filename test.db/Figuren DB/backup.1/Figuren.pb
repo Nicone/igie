@@ -1,5 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
-<PAPBASE VERSION="17670" OLDEST_READER="7000" OLDEST_WRITER="7000" REORG_COUNT="166" REORG_TIME="20111102T19:00:26">
+<PAPBASE VERSION="20050" OLDEST_READER="7000" OLDEST_WRITER="7000" REORG_COUNT="169" REORG_TIME="20140402T22:36:23">
 <PBHEADER>
 <DB_OPTIONS INDEX="1" INDEX_PHONETIC="1" DELAYED_SAVE="0" AVOID_SORT="0" MAIN_ASK="0" MAIN_NO_REORG="0" OVERWRITE_BACKUP="0" MAKE_BACKUPS="1" NBACKUPS="2" BACKUP_USE_PATH="0" BACKUP_PATH="" MULTIUSER="1" LOGIN_REQUIRED="0" LANG="de"/>
 <DBTABDEF ID="1" NAME="Figuren">
@@ -26,6 +26,8 @@
 <FIELDDEF NAME="Begleiter" TYPE="STD"></FIELDDEF>
 <FIELDDEF NAME="Sonstiges" TYPE="STD" TAKE_RETURN="1"></FIELDDEF>
 <FIELDDEF NAME="Soziales" TYPE="STRING"></FIELDDEF>
+<REPORT NAME="Reports/Personenverzeichnis.pap" PAGE_BREAK="1" DEFAULT_REPORT="1" SELECTED="1"/>
+<REPORT NAME="Reports/Protagonist.pap" PAGE_BREAK="1"/>
 </DBTABDEF>
 <DBTABDEF ID="2" NAME="Dinge">
 <FIELDDEF NAME="Name" TYPE="STRING" CHARACTER_HYPERLINK="1"></FIELDDEF>
@@ -53,30 +55,93 @@
 </DBTABDEF>
 </PBHEADER>
 <DBTAB ID="1">
-<D/><D/><D/><D/><D/><D/><D/><D/><D/><D/><D/><D/><D/>
-<R>Boppo (Beispieldatensatz)
-Köhler
+<D/><D/><D/><D/><D/><D/><D/><D/><D/><D/><D/><D/><D/><D/>
+<R>Barry
+Barry ist nur sein Nick, da Ähnlichkeit zu Barry aus High Fidelity. Bürgerlicher Name ist Stephan Toller.  
 männlich
-schmutziger, fleißiger Arbeiter
-etwas kleiner
-mittel, schwer erkennbar
-hager, kräftig
-devot, zurückhaltend
+Nerd, paranoid, charismatisch, einnehmend, dynamisch, genial, Nazist 
+1,72
+37
+kompakt, untersetzt, gesund
+energetisch und charismatisch, überzeugend, abgefahren
 braun
-kurz ungepflegt braun
-nur ein paar Stoppeln
-schwer brennbar, viel Leder, alt und verräuchert, angesengt
-wiederholt sich oft, leise
-riecht nach Rauch
-normal
-freundlicher, gütiger Mann, zufrieden mit seinem Platz im Leben
-ein wirklich erfahrener Köhler
-etwas gebeugt
-kleine Axt zum Holz schlagen, Haselnuss-Stab
-macht prima Holzkohle
+mittel-lang, schwarz
+kurzer Vollbart, normal stark
+casual: meist Jeans/Korthose, Sneaker und dazu i.d.R. ein Mottoshirt. Wir meist nerdy und viel Jünger als er ist. Kann sich auch für bestimmte Anlässe extravagant kleiden, damit er im Mittelpunkt steht.
+variabel
+frisch, eua de toilette
+kurze, runde Nase; schmale lippen
+Hat überraschenderweise viel Erfolg bei einer bestimmter Art von Frauen. Äußerst eloquent und vorwegnehmend in Koversationen. Scheint viel Geld zu haben und gibt dieses großzügig aus. Totales Partymonster. Hat den größten technischen Sachverstand alle Charaktere.
+Informatik Studium angefangen, aber nie beendet. Hat kleines IT-Security Unternehmen (3-20 Mann), bei dem keiner so recht weiß, was die machen.
+dick (ca. 80-90kg)
+
+Ist sehr musikalisch und kann tanzen und singen.
+
+Barry wohnt in einem Fabrikloft am Fluss. Die untere Etage ist der luxeriöse Wohnbereich und oben findet sich eine »Cave« mit allerhand technischem Gerät. Die Wohnung ist mehrfach gesichert und kann autark betrieben werden, dank Generatoren, Lebensmittelbevorratung, Wasseraufbereitungsanlage und Solarzellen auf dem Dach. ||Er betreibt einen Verschwörungspodcast »propaganda2day«.||Ist kein Gutmensch, d.h. »schein« nicht ideologisch motiviert, sondern viel mehr pecuniär oder aus Machtdemonstration(aus Liebe zum gefährlichen Spiel).||Kann in letzter Konsequenz selbstlos sein.
+Hat viele Freunde, die seine Art akzeptieren und sich auch gerne in seinem Schatten begeben. Außerdem kennt ihn fast jeder. Er war ein guter Freund von Ikarus, mit dem er lange zusammengearbeitet hat.</R>
+<R>Donovan O’Keefe
+»The Don«, optisch Robert Glenister
+männlich
+Alphamale
+
+52
+bullig, untersetzt
+Macho, dominant, einschüchternt, respektlos, durchtrieben, vulgär, geschmacklos
+
+rot kurz
+-
 
 
-lebt allein im Wald, mit der Bäckerswitwe befreundet, freundlich</R>
+penetranntes Aftershave, Mundgeruch
+breites vorstehndes Kinn
+Wirkt extrem heterosexuell und verhält sich vulgär und erniedrigend Frauen gegenüber, das man denken könnte er wäre eine alter geiler Bock. Ist er auch, aber er steht auf Männer.
+Senior Agent beim CIA
+
+
+sehr intelligent, findet schwachstellen seines Gegenüber und weiß diese zu nutzen, kennte alle Tricks
+Blackberry
+Kam vom GCHQ, warum weiß keiner. Reiche Eltern (evtl. alter Adel), Vater tot(vielleicht hat er Ihn getötet), Mutter lebt noch irgendwo in Irland. Sonst keine bekannten Verwandten. Bei Mutter ist er der perfekte Gentleman, lässt sein wahres ich nie sehen. Die Mutter ist aber auch ein altes Scheusal. Er hasste seinen Vater (weiß Mutter nicht). Offenbar wurde er von ihm Misbraucht. |Jeder hasst Ihn, auch bei der CIA, allerdings respektieren(fürchten) Ihn die Leute mit Ahnung.Mutter misbilligt seine Karriere. ||Könnte innerlichen Wandel durchmachen und seinen Zögling retten wollen, indem er Ihn aus der Schussbahn nimmt. Wir dann aber von Ihm hintergagen und eleminiert.|Hat cholerische Züge.
+keine Freunde oder Leute die auf seine Gegenwart wert legen. Lediglich sexuelle private Kontakte.</R>
+<R>Ron Kühner
+Journalist
+männlich
+
+1,68
+48
+dick 
+
+
+kaum, grau
+-
+
+
+
+
+
+Journalist</R>
+<R>Arndt Mecking
+
+männlich
+
+1,86
+49
+stattlich, athletisch
+charismatisch, exzentrisch, charmant, intelektuell, arrogant
+
+schwarz, kurz, angegraut
+-
+moderne italienische Mode im klassischen Stil
+
+
+
+
+Polit-PE-Berater
+
+SWC
+
+
+
+umfassendes Netzwerk in Politik und Wirtschaft; wenig »echte« Freunde, z.B. Ron; selbst auch kein echter Freund</R>
 </DBTAB>
 <DBTAB ID="2">
 <D/><D/><D/><D/><D/><D/>
