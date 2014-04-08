@@ -1,5 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
-<PAPBASE VERSION="20050" OLDEST_READER="7000" OLDEST_WRITER="7000" REORG_COUNT="170" REORG_TIME="20140402T22:57:48">
+<PAPBASE VERSION="20050" OLDEST_READER="7000" OLDEST_WRITER="7000" REORG_COUNT="171" REORG_TIME="20140407T23:01:31">
 <PBHEADER>
 <DB_OPTIONS INDEX="1" INDEX_PHONETIC="1" DELAYED_SAVE="0" AVOID_SORT="0" MAIN_ASK="0" MAIN_NO_REORG="0" OVERWRITE_BACKUP="0" MAKE_BACKUPS="1" NBACKUPS="2" BACKUP_USE_PATH="0" BACKUP_PATH="" MULTIUSER="1" LOGIN_REQUIRED="0" LANG="de"/>
 <DBTABDEF ID="1" NAME="Figuren">
@@ -142,6 +142,29 @@ IWC Uhr, Blackberry
 
 - Lebt allein und war zweimal verheiratet. Hat 3 Kinder (1 aus erster Ehe, 2 aus zweiter). Ist ein Macho und aufreißer.|- Früher mal Bertelsmannstiftung (wird zu Bertelsmann veranstaltungen eingeladen).|- Atlant|- Er lebt die Welt nur aus seinem Blickwinkel und hat keinerlei Gewissenbisse. |- Ist auf Erfolg getrimmt und überspielt seine Einsamkeit mit ständiger Beschäftigung.|- Fragt nie um Rat und hält sich für den schlausten Erdenbewohner und hat daher keine Angst, ein Handeln könnte negative Konsequenzen für ihn haben. 
 umfassendes Netzwerk in Politik und Wirtschaft; wenig »echte« Freunde, z.B. Ron; selbst auch kein echter Freund</R>
+<R>Yuki Hashimoto
+
+weiblich
+
+1,55
+25
+zierlich, feminin
+fröhlich, unbekümmert
+schwarz
+schwarz, fest, dick
+
+
+zart
+
+
+
+Juristin
+
+
+
+
+Sie hat das Studium mit »gut« an der Keiō-Universität abgeschlosse und zur Belohnung eine einjährige Weltreise von Ihrem Vater geschenkt bekommen. Dabei hat Sie Bennett kennengelernt. Sie haben sich verliebt und Bennett hat Sie die letzten Monate auf Ihrer Reise begleitet.|Nach ihrer Reise wird sie in der der Kanzlei Ihres Vater anfangen und 
+ist nicht sonderlich an neuen Bekanntschaften interessiert.</R>
 </DBTAB>
 <DBTAB ID="2">
 <D/><D/><D/><D/><D/><D/>

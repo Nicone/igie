@@ -1,5 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
-<PAPBASE VERSION="20050" OLDEST_READER="7000" OLDEST_WRITER="7000" REORG_COUNT="168" REORG_TIME="20140402T22:28:43">
+<PAPBASE VERSION="20050" OLDEST_READER="7000" OLDEST_WRITER="7000" REORG_COUNT="169" REORG_TIME="20140402T22:36:23">
 <PBHEADER>
 <DB_OPTIONS INDEX="1" INDEX_PHONETIC="1" DELAYED_SAVE="0" AVOID_SORT="0" MAIN_ASK="0" MAIN_NO_REORG="0" OVERWRITE_BACKUP="0" MAKE_BACKUPS="1" NBACKUPS="2" BACKUP_USE_PATH="0" BACKUP_PATH="" MULTIUSER="1" LOGIN_REQUIRED="0" LANG="de"/>
 <DBTABDEF ID="1" NAME="Figuren">
@@ -126,7 +126,22 @@ männlich
 1,86
 49
 stattlich, athletisch
-charismatisch, exzentrisch, charmant, intelektuell</R>
+charismatisch, exzentrisch, charmant, intelektuell, arrogant
+
+schwarz, kurz, angegraut
+-
+moderne italienische Mode im klassischen Stil
+
+
+
+
+Polit-PE-Berater
+
+SWC
+
+
+
+umfassendes Netzwerk in Politik und Wirtschaft; wenig »echte« Freunde, z.B. Ron; selbst auch kein echter Freund</R>
 </DBTAB>
 <DBTAB ID="2">
 <D/><D/><D/><D/><D/><D/>
