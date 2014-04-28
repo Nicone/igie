@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Papyrus Autor Demo
-Exec=env WINEPREFIX="/home/h4cktor/.wine" wine C:\\\\Program\\ Files\\ \\(x86\\)\\\\Papyrus\\ Autor\\ Demo\\\\Papyrus\\ Autor\\ Demo.exe 
-Type=Application
-StartupNotify=true
-Path=/home/h4cktor/.wine/dosdevices/c:/Program Files (x86)/Papyrus Autor Demo
-Icon=F0AA_Papyrus Autor Demo.0
