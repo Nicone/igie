@@ -1,5 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
-<PAPBASE VERSION="20050" OLDEST_READER="7000" OLDEST_WRITER="7000" REORG_COUNT="169" REORG_TIME="20140402T22:36:23">
+<PAPBASE VERSION="20050" OLDEST_READER="7000" OLDEST_WRITER="7000" REORG_COUNT="170" REORG_TIME="20140402T22:57:48">
 <PBHEADER>
 <DB_OPTIONS INDEX="1" INDEX_PHONETIC="1" DELAYED_SAVE="0" AVOID_SORT="0" MAIN_ASK="0" MAIN_NO_REORG="0" OVERWRITE_BACKUP="0" MAKE_BACKUPS="1" NBACKUPS="2" BACKUP_USE_PATH="0" BACKUP_PATH="" MULTIUSER="1" LOGIN_REQUIRED="0" LANG="de"/>
 <DBTABDEF ID="1" NAME="Figuren">
@@ -122,11 +122,11 @@ Journalist</R>
 <R>Arndt Mecking
 
 männlich
-
+Alphamale, Selbstdarsteller
 1,86
 49
 stattlich, athletisch
-charismatisch, exzentrisch, charmant, intelektuell, arrogant
+charismatisch, exzentrisch, charmant, intelektuell, arrogant, oberflächlich
 
 schwarz, kurz, angegraut
 -
@@ -136,11 +136,11 @@ moderne italienische Mode im klassischen Stil
 
 
 Polit-PE-Berater
+Model Alec Baldwin
+IWC Uhr, Blackberry
 
-SWC
 
-
-
+- Lebt allein und war zweimal verheiratet. Hat 3 Kinder (1 aus erster Ehe, 2 aus zweiter). Ist ein Macho und aufreißer.|- Früher mal Bertelsmannstiftung (wird zu Bertelsmann veranstaltungen eingeladen).|- Atlant|- Er lebt die Welt nur aus seinem Blickwinkel und hat keinerlei Gewissenbisse. |- Ist auf Erfolg getrimmt und überspielt seine Einsamkeit mit ständiger Beschäftigung.|- Fragt nie um Rat und hält sich für den schlausten Erdenbewohner und hat daher keine Angst, ein Handeln könnte negative Konsequenzen für ihn haben. 
 umfassendes Netzwerk in Politik und Wirtschaft; wenig »echte« Freunde, z.B. Ron; selbst auch kein echter Freund</R>
 </DBTAB>
 <DBTAB ID="2">
