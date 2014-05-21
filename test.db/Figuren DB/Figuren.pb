@@ -1,5 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
-<PAPBASE VERSION="20050" OLDEST_READER="7000" OLDEST_WRITER="7000" REORG_COUNT="173" REORG_TIME="20140519T19:57:45">
+<PAPBASE VERSION="20050" OLDEST_READER="7000" OLDEST_WRITER="7000" REORG_COUNT="174" REORG_TIME="20140521T17:26:51">
 <PBHEADER>
 <DB_OPTIONS INDEX="1" INDEX_PHONETIC="1" DELAYED_SAVE="0" AVOID_SORT="0" MAIN_ASK="0" MAIN_NO_REORG="0" OVERWRITE_BACKUP="0" MAKE_BACKUPS="1" NBACKUPS="2" BACKUP_USE_PATH="0" BACKUP_PATH="" MULTIUSER="1" LOGIN_REQUIRED="0" LANG="de"/>
 <DBTABDEF ID="1" NAME="Figuren">
@@ -210,6 +210,23 @@ Sommersprossen
 
 
 Ihr rotblondes Haar trug sie recht kurz, sodann nicht über ihr Kinn hinaus reichte.</R>
+<R>Helena Kühner
+Tocher von Ron
+weiblich
+
+1,55
+16
+etwas füllig
+
+grün
+lange rote locken
+
+Alternativ
+
+
+
+
+Abiturientin</R>
 </DBTAB>
 <DBTAB ID="2">
 <D/><D/><D/><D/><D/><D/>
